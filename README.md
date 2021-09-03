@@ -1,5 +1,9 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true)](https://github.com/JaeSeoKim/badge42)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somedevv&layout=compact)](https://github.com/psoto-go/github-readme-stats)
+<a href="">
+  <img align="center" src="https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somedevv&layout=compact" />
+</a>
 
 <!--
 **somedevv/somedevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
