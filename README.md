@@ -1,7 +1,7 @@
-<a href="">
+<a href="https://github.com/somedevv/42-Cursus">
   <img align="center" src="https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true" />
 </a>
-<a href="">
+<a href="https://github.com/somedevv?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somedevv&layout=compact" />
 </a>
 
