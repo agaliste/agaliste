@@ -7,12 +7,12 @@
 
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Libft         | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Libft)](https://github.com/somedevv/42-Cursus/tree/master/Rank%200/libft)                  |
-| get_next_line | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)](https://github.com/somedevv/42-Cursus/tree/master/Rank%201/get_next_line)          |
-| ft_printf     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)](https://github.com/somedevv/42-Cursus/tree/master/Rank%201/ft_printf)              |
-| born2beroot   | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)](https://github.com/somedevv/42-Cursus/tree/master/Rank%201/born2beroot/)           |
-| push_swap     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://github.com/somedevv/42-Cursus/tree/master/Rank%202/push_swap)              |
-| so_long       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/so_long)](https://github.com/somedevv/42-Cursus/tree/master/Rank%202/so_long)                |
+| [Libft](https://github.com/somedevv/42-Cursus/tree/master/Rank%200/libft)         | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Libft)](https://badge42.herokuapp.com/api/project/agaliste/Libft)                  |
+| [get_next_line](https://github.com/somedevv/42-Cursus/tree/master/Rank%201/get_next_line) | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)          |
+| [ft_printf](https://github.com/somedevv/42-Cursus/tree/master/Rank%201/ft_printf)     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)              |
+| [born2beroot](https://github.com/somedevv/42-Cursus/tree/master/Rank%201/born2beroot/)   | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)           |
+| [push_swap](https://github.com/somedevv/42-Cursus/tree/master/Rank%202/push_swap)     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://badge42.herokuapp.com/api/project/agaliste/push_swap)              |
+| [so_long](https://github.com/somedevv/42-Cursus/tree/master/Rank%202/so_long)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/so_long)](https://badge42.herokuapp.com/api/project/agaliste/so_long)                |
 
 <!--
 **somedevv/somedevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
