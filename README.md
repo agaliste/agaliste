@@ -1,3 +1,18 @@
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Adrian - aka [somedevv](https://github.com/somedevv) 🚀
+
+[![Github](https://img.shields.io/github/followers/sraccah?label=Follow&style=social)](https://github.com/somedevv)
+![](https://visitor-badge.laobi.icu/badge?page_id=somedevv.somedevv)
+
+## I'm a Developer and 42 Lover!
+
+-  Spaniard living in Madrid 🇪🇸
+-  Proud to be a learner of the 42 Network 4️⃣ 2️⃣
+-  Creator of "THE DOWNLOADER" Telegram Bot 👨🏻‍🔧
+-  I’m currently learning everything, even guitar 👨🏻‍🎓
+-  I love music  🎶
+
+## My 42 Roadmap
+
 <a href="https://github.com/somedevv/42-Cursus">
   <img align="right" src="https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true" />
 </a>
@@ -14,17 +29,20 @@
 | [push_swap](https://github.com/somedevv/42-Cursus/tree/master/Rank%202/push_swap)     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://badge42.herokuapp.com/api/project/agaliste/push_swap)              |
 | [so_long](https://github.com/somedevv/42-Cursus/tree/master/Rank%202/so_long)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/so_long)](https://badge42.herokuapp.com/api/project/agaliste/so_long)                |
 
-<!--
-**somedevv/somedevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="somedevv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/galisteo02)
+[<img align="left" alt="somedevv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/galisteo02/)
+[<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/agalisteomula/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/somedevv)
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://github.com/somedevv)
+[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://github.com/somedevv)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/somedevv)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/somedevv)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/somedevv)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/somedevv)
