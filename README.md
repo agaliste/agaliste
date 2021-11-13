@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Adrian - aka [somedevv](https://github.com/somedevv) 🚀
 
-[![Github](https://img.shields.io/github/followers/sraccah?label=Follow&style=social)](https://github.com/somedevv)
+[![Github](https://img.shields.io/github/followers/somedevv?label=Follow&style=social)](https://github.com/somedevv)
 ![](https://visitor-badge.laobi.icu/badge?page_id=somedevv.somedevv)
 
 ## I'm a Developer and 42 Lover!
