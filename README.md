@@ -7,7 +7,7 @@
 
 -  Spaniard living in Madrid 🇪🇸
 -  Proud to be a learner of the 42 Network 4️⃣ 2️⃣
--  Creator of "THE DOWNLOADER" Telegram Bot 👨🏻‍🔧
+-  Creator of "TelegramYTDLBot" Telegram Bot 👨🏻‍🔧
 -  I’m currently learning everything, even guitar 👨🏻‍🎓
 -  I love music  🎶
 
