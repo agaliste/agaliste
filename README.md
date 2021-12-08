@@ -13,7 +13,7 @@
 
 ## My 42 Roadmap
 
-<a href="https://github.com/somedevv/42-Cursus">
+<a href="https://github.com/somedevv/42Cursus">
   <img align="right" src="https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true" />
 </a>
 <a href="https://github.com/somedevv/42-C-Piscine">
