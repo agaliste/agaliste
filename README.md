@@ -9,7 +9,7 @@
 -  Proud to be a learner of the 42 Network 4️⃣ 2️⃣
 -  Creator of "[Social Downloader](https://github.com/somedevv/YTDLTelegramBot)" Telegram Bot 👨🏻‍🔧
 -  I’m currently learning everything I love, even guitar 👨🏻‍🎓
--  I love music  🎶
+-  I love music! --> [my Spotify Profile](https://open.spotify.com/user/byadrioffisial)  🎶
 
 ## My 42 Roadmap
 
