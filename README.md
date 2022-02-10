@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/somedevv?label=Follow&style=social)](https://github.com/somedevv)
 ![](https://visitor-badge.laobi.icu/badge?page_id=somedevv.somedevv)
 
-## I'm a Developer and 42 Lover!
+## I'm a Software Developer and 42 Student!
 
 -  Spaniard living in Madrid 🇪🇸
 -  Proud to be a learner of the 42 Network 4️⃣ 2️⃣
