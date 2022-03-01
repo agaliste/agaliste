@@ -22,18 +22,19 @@
 
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Libft](https://github.com/somedevv/libft)         | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Libft)](https://badge42.herokuapp.com/api/project/agaliste/Libft)                  |
-| [get_next_line](https://github.com/somedevv/get_next_line) | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)          |
-| [ft_printf](https://github.com/somedevv/ft_printf)     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)              |
-| [born2beroot](https://github.com/somedevv/born2beroot/)   | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)           |
-| [push_swap](https://github.com/somedevv/push_swap)     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://badge42.herokuapp.com/api/project/agaliste/push_swap)              |
-| [so_long](https://github.com/somedevv/so_long)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/so_long)](https://badge42.herokuapp.com/api/project/agaliste/so_long)                |
-| [Pipex](https://github.com/somedevv/Pipex)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/pipex)](https://badge42.herokuapp.com/api/project/agaliste/Pipex)                |
+| [Libft](https://github.com/some42/libft)         | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Libft)](https://badge42.herokuapp.com/api/project/agaliste/Libft)                  |
+| [get_next_line](https://github.com/some42/get_next_line) | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)          |
+| [ft_printf](https://github.com/some42/ft_printf)     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)              |
+| [born2beroot](https://github.com/some42/born2beroot/)   | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)           |
+| [push_swap](https://github.com/some42/push_swap)     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://badge42.herokuapp.com/api/project/agaliste/push_swap)              |
+| [so_long](https://github.com/some42/so_long)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/so_long)](https://badge42.herokuapp.com/api/project/agaliste/so_long)                |
+| [Pipex](https://github.com/some42/Pipex)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/pipex)](https://badge42.herokuapp.com/api/project/agaliste/Pipex)                |
+| Minishell       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/minishell)](https://badge42.herokuapp.com/api/project/agaliste/minishell)                |
 
 ## Connect with me:
 
 [<img align="left" alt="somedevv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/galisteo02)
-[<img align="left" alt="somedevv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/galisteo02/)
+[<img align="left" alt="somedevv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/somedevv/)
 [<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/agalisteomula/)
 
 <br />
