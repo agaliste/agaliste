@@ -29,7 +29,7 @@
 | [push_swap](https://github.com/some42/push_swap)     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://badge42.herokuapp.com/api/project/agaliste/push_swap)              |
 | [so_long](https://github.com/some42/so_long)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/so_long)](https://badge42.herokuapp.com/api/project/agaliste/so_long)                |
 | [Pipex](https://github.com/some42/Pipex)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/pipex)](https://badge42.herokuapp.com/api/project/agaliste/Pipex)                |
-| Minishell       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/minishell)](https://badge42.herokuapp.com/api/project/agaliste/minishell)                |
+| [Minishell](https://github.com/42madorna/42_Minishell)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/minishell)](https://badge42.herokuapp.com/api/project/agaliste/minishell)                |
 | Philosophers       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Philosophers)](https://badge42.herokuapp.com/api/project/agaliste/Philosophers)                |
 
 ## Connect with me:
