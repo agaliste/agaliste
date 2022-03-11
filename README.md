@@ -40,8 +40,6 @@
 [<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:somedevv@somedevv.com)
 [<img src="https://user-images.githubusercontent.com/29986345/135771930-b0e5cf15-3719-4934-9bca-4a5d3b35850f.png">](mailto:agaliste@student.42madrid.com)
 
-<br />
-
 ## Languages and Tools:
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://github.com/somedevv)
