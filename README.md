@@ -34,9 +34,11 @@
 
 ## Connect with me:
 
-[<img align="left" alt="somedevv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/galisteo02)
-[<img align="left" alt="somedevv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/somedevv/)
-[<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/agalisteomula/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/galisteo02)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/somedevv/)
+[<img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/agalisteomula/)
+[<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:somedevv@somedevv.com)
+[<img src="https://user-images.githubusercontent.com/29986345/135771930-b0e5cf15-3719-4934-9bca-4a5d3b35850f.png">](mailto:agaliste@student.42madrid.com)
 
 <br />
 
