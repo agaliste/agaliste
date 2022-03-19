@@ -31,6 +31,7 @@
 | [Pipex](https://github.com/some42/Pipex)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/pipex)](https://badge42.herokuapp.com/api/project/agaliste/Pipex)                |
 | [Minishell](https://github.com/42madorna/42_Minishell)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/minishell)](https://badge42.herokuapp.com/api/project/agaliste/minishell)                |
 | Philosophers       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Philosophers)](https://badge42.herokuapp.com/api/project/agaliste/Philosophers)                |
+| [CPP Module 00](https://github.com/some42/CPP_Module_00)       |                |
 
 ## Connect with me:
 
