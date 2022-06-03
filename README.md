@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Adrian - aka [somedevv](https://github.com/somedevv) 🚀
+# Hi there, I'm Adrian - aka [somedevv](https://github.com/somedevv) 🚀
 
 [![Github](https://img.shields.io/github/followers/somedevv?label=Follow&style=social)](https://github.com/somedevv)
 ![](https://visitor-badge.laobi.icu/badge?page_id=somedevv.somedevv)
@@ -14,10 +14,10 @@
 ## My 42 Roadmap
 
 <a href="https://github.com/somedevv/42Cursus">
-  <img align="right" src="https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true" />
+  <img align="left" src="https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true" />
 </a>
 <a href="https://github.com/somedevv/42-C-Piscine">
-  <img align="right" src="https://badge42.herokuapp.com/api/stats/agaliste?cursus=C%20Piscine&privacyName=true" />
+  <img align="left" src="https://badge42.herokuapp.com/api/stats/agaliste?cursus=C%20Piscine&privacyName=true" />
 </a>
 
 | 42 Project       | Mark                                                                                                                                          |
