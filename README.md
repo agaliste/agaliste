@@ -1,7 +1,5 @@
 # Hi there, I'm Adrian - aka [somedevv](https://github.com/somedevv) 🚀
 
-[![agaliste's 42 stats](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
-
 ## I'm a Software Developer and 42 Student!
 
 -  Spaniard living in Madrid 🇪🇸
@@ -12,24 +10,19 @@
 
 ## My 42 Roadmap
 
-<a href="https://github.com/somedevv/42Cursus">
-  <img align="left" src="https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true" />
-</a>
-<a href="https://github.com/somedevv/42-C-Piscine">
-  <img align="left" src="https://badge42.herokuapp.com/api/stats/agaliste?cursus=C%20Piscine&privacyName=true" />
-</a>
+[![agaliste's 42 stats](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
 
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Libft](https://github.com/some42/libft)         | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Libft)](https://badge42.herokuapp.com/api/project/agaliste/Libft)                  |
-| [get_next_line](https://github.com/some42/get_next_line) | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)          |
-| [ft_printf](https://github.com/some42/ft_printf)     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)              |
-| [born2beroot](https://github.com/some42/born2beroot/)   | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)           |
-| [push_swap](https://github.com/some42/push_swap)     | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://badge42.herokuapp.com/api/project/agaliste/push_swap)              |
-| [so_long](https://github.com/some42/so_long)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/so_long)](https://badge42.herokuapp.com/api/project/agaliste/so_long)                |
-| [Pipex](https://github.com/some42/Pipex)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/pipex)](https://badge42.herokuapp.com/api/project/agaliste/Pipex)                |
-| [Minishell](https://github.com/42madorna/42_Minishell)       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/minishell)](https://badge42.herokuapp.com/api/project/agaliste/minishell)                |
-| Philosophers       | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Philosophers)](https://badge42.herokuapp.com/api/project/agaliste/Philosophers)                |
+| [Libft](https://github.com/some42/libft)         | [![agaliste's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2074299)](https://github.com/JaeSeoKim/badge42)                |
+| [get_next_line](https://github.com/some42/get_next_line) | [![agaliste's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2095548)](https://github.com/JaeSeoKim/badge42)          |
+| [ft_printf](https://github.com/some42/ft_printf)     | [![agaliste's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2292522)](https://github.com/JaeSeoKim/badge42)              |
+| [born2beroot](https://github.com/some42/born2beroot/)   | [![agaliste's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2289125)](https://github.com/JaeSeoKim/badge42)           |
+| [push_swap](https://github.com/some42/push_swap)     | [![agaliste's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2413717)](https://github.com/JaeSeoKim/badge42)             |
+| [so_long](https://github.com/some42/so_long)       | [![agaliste's 42 so_long Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2411242)](https://github.com/JaeSeoKim/badge42)                |
+| [Pipex](https://github.com/some42/Pipex)       | [![agaliste's 42 pipex Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2411374)](https://github.com/JaeSeoKim/badge42)                |
+| [Minishell](https://github.com/42madorna/42_Minishell)       | [![agaliste's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2517630)](https://github.com/JaeSeoKim/badge42)                |
+| Philosophers       | [![agaliste's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2518347)](https://github.com/JaeSeoKim/badge42)                |
 | [CPP Module 00](https://github.com/some42/CPP_Module_00)       |                |
 
 ## Connect with me:
