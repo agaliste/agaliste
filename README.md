@@ -1,7 +1,7 @@
 # Hi there, I'm Adrian - aka [somedevv](https://github.com/somedevv) 🚀
 
-[![Github](https://img.shields.io/github/followers/somedevv?label=Follow&style=social)](https://github.com/somedevv)
-![](https://visitor-badge.laobi.icu/badge?page_id=somedevv.somedevv)
+[![agaliste's 42 stats](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
+[![agaliste's 42 stats](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 ## I'm a Software Developer and 42 Student!
 
