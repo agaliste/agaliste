@@ -58,6 +58,7 @@
 ![Scala](https://img.shields.io/badge/Scala-20232A?style=for-the-badge&logo=scala&logoColor=F1502F)
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F1502F)
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2CA5E0)
+![Docker](https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=2CA5E0)
 ![Visual Studio Code](https://img.shields.io/badge/vscode-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=0485d1)
 
 ---
