@@ -10,31 +10,25 @@
 
 ## My 42 Roadmap
 
-[![agaliste's 42 stats](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
+| Project                                                      |
+|--------------------------------------------------------------|
+| [Libft](https://github.com/some42/libft)                     |
+| [get_next_line](https://github.com/some42/get_next_line)     |
+| [ft_printf](https://github.com/some42/ft_printf)             |
+| [born2beroot](https://github.com/some42/born2beroot/)        |
+| [push_swap](https://github.com/some42/push_swap)             |
+| [so_long](https://github.com/some42/so_long)                 |
+| [Pipex](https://github.com/some42/Pipex)                     |
+| [Minishell](https://github.com/42madorna/42_Minishell)       |
+| [Philosophers](https://github.com/some42/philo)              |
+| [CPP Module 00](https://github.com/some42/CPP_Module_00)     |
 
-<table>
-<tr><th> 42 Projects </th><th> 42 Exams </th></tr>
-<tr><td>
+</td><td vertical-align:bottom">
 
-| Project  |  Mark  |
-|----------|--------|
-| [Libft](https://github.com/some42/libft)         | [![agaliste's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2074299)](https://github.com/JaeSeoKim/badge42)                |
-| [get_next_line](https://github.com/some42/get_next_line) | [![agaliste's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2095548)](https://github.com/JaeSeoKim/badge42)          |
-| [ft_printf](https://github.com/some42/ft_printf)     | [![agaliste's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2292522)](https://github.com/JaeSeoKim/badge42)              |
-| [born2beroot](https://github.com/some42/born2beroot/)   | [![agaliste's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2289125)](https://github.com/JaeSeoKim/badge42)           |
-| [push_swap](https://github.com/some42/push_swap)     | [![agaliste's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2413717)](https://github.com/JaeSeoKim/badge42)             |
-| [so_long](https://github.com/some42/so_long)       | [![agaliste's 42 so_long Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2411242)](https://github.com/JaeSeoKim/badge42)                |
-| [Pipex](https://github.com/some42/Pipex)       | [![agaliste's 42 pipex Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2411374)](https://github.com/JaeSeoKim/badge42)                |
-| [Minishell](https://github.com/42madorna/42_Minishell)       | [![agaliste's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2517630)](https://github.com/JaeSeoKim/badge42)                |
-| [Philosophers](https://github.com/some42/philo)       | [![agaliste's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2518347)](https://github.com/JaeSeoKim/badge42)                |
-| [CPP Module 00](https://github.com/some42/CPP_Module_00)       |                |
-
-</td><td vertical-align:top">
-
-| Exam  |  Mark  |
-|----------|--------|
-| Exam Rank 02 | [![agaliste's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2414491)](https://github.com/JaeSeoKim/badge42) |
-| Exam Rank 03 | [![agaliste's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2525950)](https://github.com/JaeSeoKim/badge42) |
+| Exam         |
+|--------------|
+| Exam Rank 02 |
+| Exam Rank 03 |
 
 </td></tr> </table>
 
