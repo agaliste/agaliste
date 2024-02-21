@@ -10,7 +10,7 @@
 
 ## My 42 Roadmap
 
-| Project                                                      |
+| Projects                                                      |
 |--------------------------------------------------------------|
 | [Libft](https://github.com/some42/libft)                     |
 | [get_next_line](https://github.com/some42/get_next_line)     |
@@ -25,7 +25,7 @@
 
 </td><td vertical-align:bottom">
 
-| Exam         |
+| Exams         |
 |--------------|
 | Exam Rank 02 |
 | Exam Rank 03 |
