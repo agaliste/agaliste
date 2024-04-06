@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20somedevv!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20agaliste!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 ## I'm a Software Developer and 42 Student!
 
 -  Spaniard living in Madrid 🇪🇸
 -  Proud learner of the 42 Network 4️⃣ 2️⃣
--  Creator of "[Social Downloader](https://github.com/somedevv/YTDLTelegramBot)" Telegram Bot 👨🏻‍🔧
+-  Creator of "[Social Downloader](https://github.com/agaliste/YTDLTelegramBot)" Telegram Bot 👨🏻‍🔧
 -  I’m currently learning everything I love and more! 👨🏻‍🎓
 -  I love music! --> [my Spotify Profile](https://open.spotify.com/user/byadrioffisial)  🎶
 
@@ -37,7 +37,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/galisteo02)
 [![Instagram](https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=ED3183)](https://www.instagram.com/somedevv/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=107ab0)](https://www.linkedin.com/in/agalisteomula/)
-[![Mail](https://img.shields.io/badge/Mail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:some@somedevv.com)
+[![Mail](https://img.shields.io/badge/Mail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:some@somelabs.es)
 [<img src="https://user-images.githubusercontent.com/29986345/135771930-b0e5cf15-3719-4934-9bca-4a5d3b35850f.png">](mailto:agaliste@student.42madrid.com)
 
 ## Languages and Tools:
@@ -57,5 +57,5 @@
 
 ---
 
-[![somedevv's github stats](https://github-readme-stats.vercel.app/api?username=somedevv&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
-[![somedevv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somedevv&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![agaliste's github stats](https://github-readme-stats.vercel.app/api?username=agaliste&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
+[![agaliste's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agaliste&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
